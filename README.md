@@ -12,11 +12,12 @@
  The program uses API to download publicly available data from the Local Data Bank (BDL) of the Central Statistical Office of Poland (GUS) to calculate two location attractiveness indexes for a bicycle showroom and bicycle rental. The indices were calculated for all poviats in Poland.
 
  Indexes are calculated for the following parameters:
-    * local demography
-    * average income
-    * tourist traffic
-    * sport activity
-    * length of bicycle paths 
+ 
+     * local demography
+     * average income
+     * tourist traffic
+     * sport activity
+     * length of bicycle paths 
 
 The values of the indexes range from 0 to 100, with 100 being the most attractive location.
 All calculated data are saved in csv file.
